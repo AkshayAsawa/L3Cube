@@ -1,0 +1,7 @@
+#!/usr/bin/python
+
+from sys import argv
+import svc
+
+svc.main(argv)
+
