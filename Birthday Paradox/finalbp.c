@@ -1,0 +1,146 @@
+#include<stdio.h>
+#include<math.h>
+int confidence_proof();
+int probability();
+int main()
+{
+	int i;
+	printf("Enter your choice\n");
+	printf("1.FInd probability\n");
+	printf("2.proof using standard deviation and mean\n");
+	printf("3.Exit\n");
+	scanf("%d",&i);
+	switch(i)
+	{
+		case 1:
+			probability();
+			break;
+		case 2:
+			confidence_proof();
+			break;
+		default:
+			break;
+
+	}
+}
+
+
+int probability()
+{
+	int days,no_of_ppl;
+	double p_diff,p_e;
+	printf("Enter number of days:");
+	scanf("%d",&days);
+	
+	printf("Enter number of people:");
+	scanf("%d",&no_of_ppl);
+
+	p_e = -1.0000 * (pow(no_of_ppl, 2.0000) / (2.0000 * days));
+	p_diff =  pow(2.7182, p_e);
+	printf("\n\np(match) = 1 - p(different)= %f", (1.0000 - p_diff));
+
+	return 0;
+}
+
+
+int confidence_proof()
+{
+	int days, no_of_ppl, i,j, count, p_count,p1_count=0, index = 0;
+	int *a;
+	int option = 0, no_of_trials=0;
+	double bp, bp_array[2000], bp_sum=0,bp_dif=0,bp_dif1, mean=0;
+	double sd, sd1,ci;
+	srand((unsigned) time(&days));
+
+	printf("\nWe are taking a sample of 2000 trials. The proof is given using\n");
+	printf("value of mean birthday probability, deviation and the confidence\n");
+
+	printf("Enter the number of days: ");
+	scanf("%d", &days);
+	printf("\nEnter the number of people: ");
+	scanf("%d", &no_of_ppl);
+
+	a = (int*) calloc(no_of_ppl, sizeof(int));
+
+		do
+		{
+		printf("\n");
+		p_count = 0;
+
+		for(i = 0; i < no_of_ppl ; i++)
+		{
+		     j = rand() % (days+1);
+		     a[i] = j;
+		     printf(" %d",a[i]);
+		}
+
+		printf("\nCommonpairs: ");
+		for(i = 0; i < no_of_ppl ; i++)
+		{
+		     count = 0;
+
+		     for(j=0; j<no_of_ppl; j++)
+		     {
+			if(a[i] == a[j] && a[j] != NULL)
+			{
+				count++;
+				if(i != j)
+				{
+					printf("%d,", a[j]);
+				}
+			}
+		     }
+		     if(count > 1)
+		     {
+			count = count - 1;
+			p_count =p_count + count;
+
+		     }
+		}
+
+		printf("\nNo of matching pairs: %d", p_count/2);
+		if(p_count > 0)
+		{
+			p1_count++;
+		}
+	       no_of_trials++;
+	       printf("\nNumber of trials: %d", no_of_trials);
+	       printf("\nNumber of trials with some common date: %d", p1_count);
+
+bp = (double) p1_count / no_of_trials;
+bp_array[index] = bp *100.0000;
+
+	printf("\nBirthday probability:\n");
+	printf("(no. of trials with some common date)/(no. of trials)=%f", bp);
+
+	index++;
+	option++;
+	}while(option < 2000);
+
+	for(i=0; i<2000; i++)
+	{
+		bp_sum = bp_sum +bp_array[i];
+	}
+	mean = (bp_sum / 2000);
+	printf("\n\nMean probability(percentage)=%f", mean);
+	for(i=0; i<2000; i++)
+	{
+	      bp_dif1 = mean - bp_array[i];
+	      bp_dif = bp_dif + pow(bp_dif1, 2);
+	}
+	sd1= bp_dif/2000;
+	sd= sqrt(sd1);
+
+
+	printf("\nStandard daviation(percentage) : %f", sd);
+
+	ci = 1.96*(sd/sqrt(2000.00)); //margin of error with critical value 1.96
+	printf("\nBirthday Probability from general theoretical method(option 2 ino_of_pplmenu) lies\n");
+	printf("within scope of standard deviation from mean. This varifies birthday paradox.\n");
+
+	printf("Confidence Interval=mean (+/-) [(critical value)*standarddeviation/sqrt(n)]\n");
+	printf("The confidence interval is %f (+/-) %f with a critical value of\n",mean, ci);
+	printf("1.96 which sugests that we can be 95 percent sure that\n");
+	printf("the mean will lie in this interval for any large number of trials.\n");
+	return 0;
+}
