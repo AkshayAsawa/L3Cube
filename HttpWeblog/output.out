@@ -1,0 +1,4789 @@
+
+
+Log No:1
+Username->	 -
+rfc931->	 -
+Remotehost-> 82.95.120.160
+Date->		 [14/May/2009:00:10:34 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 112813
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
+
+Log No:2
+Username->	 -
+rfc931->	 -
+Remotehost-> 82.95.120.160
+Date->		 [14/May/2009:00:10:35 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
+
+Log No:3
+Username->	 -
+rfc931->	 -
+Remotehost-> 82.95.120.160
+Date->		 [14/May/2009:00:10:36 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
+
+Log No:4
+Username->	 -
+rfc931->	 -
+Remotehost-> 82.95.120.160
+Date->		 [14/May/2009:00:10:43 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"
+
+Log No:5
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:00:35:33 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=denver HTTP/1.1"
+Status->	 200
+Bytes->		 7322
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:6
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:00:36:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=nba HTTP/1.1"
+Status->	 200
+Bytes->		 5898
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:7
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:00:37:09 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=may%20day HTTP/1.1"
+Status->	 200
+Bytes->		 7795
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:8
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.30.142.90
+Date->		 [14/May/2009:00:40:56 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/robots.txt HTTP/1.0"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:9
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.30.142.90
+Date->		 [14/May/2009:00:40:58 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=comments-rss2 HTTP/1.0"
+Status->	 200
+Bytes->		 2470
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:10
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:00:59:04 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 13670
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+
+Log No:11
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:00:59:08 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+
+Log No:12
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:01:29:37 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1)"
+
+Log No:13
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:01:29:41 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1)"
+
+Log No:14
+Username->	 -
+rfc931->	 -
+Remotehost-> 193.47.80.43
+Date->		 [14/May/2009:01:42:42 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/robots.txt HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)"
+
+Log No:15
+Username->	 -
+rfc931->	 -
+Remotehost-> 193.47.80.43
+Date->		 [14/May/2009:01:42:47 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 22011
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)"
+
+Log No:16
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:02:08:12 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 13831
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"
+
+Log No:17
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:02:08:14 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"
+
+Log No:18
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.195.112.114
+Date->		 [14/May/2009:02:43:06 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/robots.txt HTTP/1.0"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:19
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.195.112.114
+Date->		 [14/May/2009:02:43:07 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 112246
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:20
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.195.112.114
+Date->		 [14/May/2009:02:43:07 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:21
+Username->	 -
+rfc931->	 -
+Remotehost-> 173.115.29.176
+Date->		 [14/May/2009:03:11:51 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 21857
+Referrer->	 "-"
+Platform->	 "User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.0.5) Gecko/2008120122 Firefox/3.0.5 (.NET CLR 3.5.30729)"
+
+Log No:22
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:03:25:02 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)"
+
+Log No:23
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:03:25:04 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)"
+
+Log No:24
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:03:55:35 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)"
+
+Log No:25
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:03:55:36 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)"
+
+Log No:26
+Username->	 -
+rfc931->	 -
+Remotehost-> 209.131.41.49
+Date->		 [14/May/2009:04:19:40 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=rss2 HTTP/1.0"
+Status->	 200
+Bytes->		 14428
+Referrer->	 "-"
+Platform->	 "YahooFeedSeeker/2.0 (compatible; Mozilla 4.0; MSIE 5.5; http://publisher.yahoo.com/rssguide; users 1; views 78)"
+
+Log No:27
+Username->	 -
+rfc931->	 -
+Remotehost-> 212.95.58.209
+Date->		 [14/May/2009:04:21:49 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?p=1 HTTP/1.0"
+Status->	 200
+Bytes->		 21448
+Referrer->	 "http://www.kinneryandrajan.com/?p=1"
+Platform->	 "Mozilla/6.0 (compatible; MSIE 7.0a1; Windows NT 5.2; SV1)"
+
+Log No:28
+Username->	 -
+rfc931->	 -
+Remotehost-> 212.95.58.209
+Date->		 [14/May/2009:04:21:54 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?p=1"
+Platform->	 "Mozilla/6.0 (compatible; MSIE 7.0a1; Windows NT 5.2; SV1)"
+
+Log No:29
+Username->	 -
+rfc931->	 -
+Remotehost-> 212.95.58.209
+Date->		 [14/May/2009:04:21:55 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?p=1&cpage=1&rcommentid=353&rerror=incorrect-captcha-sol&rchash=586437e9b7a3f1e0a00b77b8ae6acdfe HTTP/1.0"
+Status->	 200
+Bytes->		 22618
+Referrer->	 "http://www.kinneryandrajan.com/?p=1&cpage=1&rcommentid=353&rerror=incorrect-captcha-sol&rchash=586437e9b7a3f1e0a00b77b8ae6acdfe#commentform"
+Platform->	 "Mozilla/6.0 (compatible; MSIE 7.0a1; Windows NT 5.2; SV1)"
+
+Log No:30
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.49.181.57
+Date->		 [14/May/2009:04:32:04 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:31
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.49.181.57
+Date->		 [14/May/2009:04:32:05 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:32
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.49.181.57
+Date->		 [14/May/2009:04:32:05 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 112255
+Referrer->	 "http://es.wikipedia.org/wiki/Twitter"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:33
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.49.181.57
+Date->		 [14/May/2009:04:32:06 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:34
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.49.181.57
+Date->		 [14/May/2009:04:32:07 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:35
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:04:34:12 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/0.91 Beta (Windows)"
+
+Log No:36
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:04:34:14 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/0.91 Beta (Windows)"
+
+Log No:37
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:38
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:39
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 113965
+Referrer->	 "http://twitter.pbworks.com/Apps"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:40
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:41
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:42
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:49 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23fixreplies HTTP/1.1"
+Status->	 200
+Bytes->		 14164
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:43
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:21:51 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23fixreplies HTTP/1.1"
+Status->	 200
+Bytes->		 8277
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:44
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:22:22 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7481
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:45
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:23:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7390
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:46
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:23:43 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7390
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:47
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:23:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7390
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:48
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:24:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7390
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:49
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:24:02 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7390
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:50
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:24:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7385
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:51
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:24:06 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7456
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:52
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:33:43 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23fixreplies HTTP/1.1"
+Status->	 200
+Bytes->		 14162
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:53
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:33:47 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:54
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:34:05 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:55
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:34:06 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 6874
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:56
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:34:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:57
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:34:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:58
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:34:29 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23fixreplies HTTP/1.1"
+Status->	 200
+Bytes->		 14162
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:59
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.21.100.64
+Date->		 [14/May/2009:05:34:40 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23fixreplies HTTP/1.1"
+Status->	 200
+Bytes->		 7560
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23fixreplies"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:60
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:05:51:03 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00"
+
+Log No:61
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:05:51:05 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00"
+
+Log No:62
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:06:21:38 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 12533
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"
+
+Log No:63
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:06:21:42 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"
+
+Log No:64
+Username->	 -
+rfc931->	 -
+Remotehost-> 210.128.186.2
+Date->		 [14/May/2009:06:35:24 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 20109
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:65
+Username->	 -
+rfc931->	 -
+Remotehost-> 210.128.186.2
+Date->		 [14/May/2009:06:35:33 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/js/util.js HTTP/1.0"
+Status->	 200
+Bytes->		 2128
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:66
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:33 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/ie6.css HTTP/1.1"
+Status->	 200
+Bytes->		 96
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:67
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:33 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 19374
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:68
+Username->	 -
+rfc931->	 -
+Remotehost-> 210.128.186.2
+Date->		 [14/May/2009:06:35:34 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/js/menu.js HTTP/1.0"
+Status->	 200
+Bytes->		 5886
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:69
+Username->	 -
+rfc931->	 -
+Remotehost-> 210.128.186.2
+Date->		 [14/May/2009:06:35:34 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/plugins/wp-recaptcha/recaptcha.css HTTP/1.0"
+Status->	 200
+Bytes->		 1739
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:70
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:35 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/uploads/2009/04/plot.png HTTP/1.1"
+Status->	 200
+Bytes->		 80601
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:71
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:35 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/header_footer.jpg HTTP/1.1"
+Status->	 200
+Bytes->		 26837
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:72
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:35 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/uploads/2009/03/trek.jpg HTTP/1.1"
+Status->	 200
+Bytes->		 147712
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:73
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/light.gif HTTP/1.1"
+Status->	 200
+Bytes->		 39289
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:74
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/bg.jpg HTTP/1.1"
+Status->	 200
+Bytes->		 1769
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:75
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/sidesep.gif HTTP/1.1"
+Status->	 200
+Bytes->		 102
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:76
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/icons.gif HTTP/1.1"
+Status->	 200
+Bytes->		 3997
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:77
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/widgetsep.png HTTP/1.1"
+Status->	 200
+Bytes->		 3272
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:78
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/menu.gif HTTP/1.1"
+Status->	 200
+Bytes->		 1326
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:79
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/textfield.gif HTTP/1.1"
+Status->	 200
+Bytes->		 57
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:80
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/feeds.gif HTTP/1.1"
+Status->	 200
+Bytes->		 2028
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:81
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:37 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/wp-logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 7838
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:82
+Username->	 -
+rfc931->	 -
+Remotehost-> 114.150.124.108
+Date->		 [14/May/2009:06:35:37 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/readers.gif HTTP/1.1"
+Status->	 200
+Bytes->		 7128
+Referrer->	 "http://honyaku-result.nifty.com/LUCNIFTY/ns/wt.cgi/http%3a//www.kinneryandrajan.com/?SLANG=en&TLANG=ja&XMODE=1"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:83
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:45:52 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 113981
+Referrer->	 "http://www.interney.net/blogs/alexprimo/2009/05/14/a_rapida_e_competente_resposta_do_twitte/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:84
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:45:56 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:85
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:45:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:86
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:46:07 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:87
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:46:10 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:88
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:49:47 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=dchristino HTTP/1.1"
+Status->	 200
+Bytes->		 2108
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:89
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.137.195.77
+Date->		 [14/May/2009:06:50:06 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1360
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=dchristino"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:90
+Username->	 -
+rfc931->	 -
+Remotehost-> 212.95.58.209
+Date->		 [14/May/2009:06:53:30 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?p=1&cpage=1&rcommentid=353&rerror=incorrect-captcha-sol&rchash=586437e9b7a3f1e0a00b77b8ae6acdfe HTTP/1.0"
+Status->	 200
+Bytes->		 21805
+Referrer->	 "http://www.kinneryandrajan.com/?p=1&cpage=1&rcommentid=353&rerror=incorrect-captcha-sol&rchash=586437e9b7a3f1e0a00b77b8ae6acdfe"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)"
+
+Log No:91
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:07:00:10 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01"
+
+Log No:92
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:07:00:12 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01"
+
+Log No:93
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.218.105.253
+Date->		 [14/May/2009:07:28:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 114487
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:94
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.218.105.253
+Date->		 [14/May/2009:07:29:18 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=adam+lambert HTTP/1.1"
+Status->	 200
+Bytes->		 99814
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:95
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.218.105.253
+Date->		 [14/May/2009:07:29:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=adam%20lambert HTTP/1.1"
+Status->	 200
+Bytes->		 7309
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=adam+lambert"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:96
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.218.105.253
+Date->		 [14/May/2009:07:30:11 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=adam%20lambert&since=2009-04-29&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7339
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=adam+lambert"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:97
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.218.105.253
+Date->		 [14/May/2009:07:30:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=adam%20lambert&since=2009-05-09&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7339
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=adam+lambert"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:98
+Username->	 -
+rfc931->	 -
+Remotehost-> 67.218.105.253
+Date->		 [14/May/2009:07:30:17 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=adam%20lambert&since=2009-04-29&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7276
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=adam+lambert"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:99
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:07:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/robots.txt HTTP/1.0"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:100
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:07:06 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=swineflu HTTP/1.0"
+Status->	 200
+Bytes->		 135548
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:101
+Username->	 -
+rfc931->	 -
+Remotehost-> 190.50.35.51
+Date->		 [14/May/2009:08:07:07 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:102
+Username->	 -
+rfc931->	 -
+Remotehost-> 190.50.35.51
+Date->		 [14/May/2009:08:07:07 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 114645
+Referrer->	 "http://es.wikipedia.org/wiki/Twitter"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:103
+Username->	 -
+rfc931->	 -
+Remotehost-> 190.50.35.51
+Date->		 [14/May/2009:08:07:07 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:104
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:07:08 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=swineflu"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:105
+Username->	 -
+rfc931->	 -
+Remotehost-> 190.50.35.51
+Date->		 [14/May/2009:08:07:09 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:106
+Username->	 -
+rfc931->	 -
+Remotehost-> 190.50.35.51
+Date->		 [14/May/2009:08:07:12 -0700]
+Method->	 GET  
+Request->	 "twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:107
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:07:19 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=swineflu HTTP/1.0"
+Status->	 200
+Bytes->		 7826
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=swineflu"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:108
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:11:29 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=danny HTTP/1.0"
+Status->	 200
+Bytes->		 118099
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:109
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:11:35 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=danny HTTP/1.0"
+Status->	 200
+Bytes->		 7650
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=danny"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:110
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:13:22 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=american+idol HTTP/1.0"
+Status->	 200
+Bytes->		 111227
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:111
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:08:13:30 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=american%20idol HTTP/1.0"
+Status->	 200
+Bytes->		 7287
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=american+idol"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:112
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.63.163.151
+Date->		 [14/May/2009:08:27:24 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4"
+
+Log No:113
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.63.163.151
+Date->		 [14/May/2009:08:27:24 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 114051
+Referrer->	 "http://www.interney.net/blogs/alexprimo/2009/05/14/a_rapida_e_competente_resposta_do_twitte/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4"
+
+Log No:114
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.63.163.151
+Date->		 [14/May/2009:08:27:36 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4"
+
+Log No:115
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.63.163.151
+Date->		 [14/May/2009:08:27:37 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4"
+
+Log No:116
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.63.163.151
+Date->		 [14/May/2009:08:27:40 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4"
+
+Log No:117
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.18
+Date->		 [14/May/2009:08:45:40 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:118
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.19
+Date->		 [14/May/2009:08:45:40 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 114676
+Referrer->	 "http://www.interney.net/blogs/alexprimo/2009/05/14/a_rapida_e_competente_resposta_do_twitte/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:119
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.18
+Date->		 [14/May/2009:08:45:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.0"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:120
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.18
+Date->		 [14/May/2009:08:45:47 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.0"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:121
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.18
+Date->		 [14/May/2009:08:46:09 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=osho HTTP/1.0"
+Status->	 200
+Bytes->		 2072
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:122
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.18
+Date->		 [14/May/2009:08:46:50 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.0"
+Status->	 200
+Bytes->		 1342
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=osho"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:123
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:08:47:41 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)"
+
+Log No:124
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:08:47:44 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)"
+
+Log No:125
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.18
+Date->		 [14/May/2009:08:53:13 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=osho HTTP/1.0"
+Status->	 200
+Bytes->		 6496
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:126
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.142.58.19
+Date->		 [14/May/2009:08:53:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=osho HTTP/1.0"
+Status->	 200
+Bytes->		 7792
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=osho"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:127
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.115.138.254
+Date->		 [14/May/2009:09:12:55 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 114785
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0"
+
+Log No:128
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:12:55 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 114785
+Referrer->	 "http://twitter.pbworks.com/Apps"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:129
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:12:56 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:130
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:12:56 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:131
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:12:57 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:132
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.115.138.254
+Date->		 [14/May/2009:09:13:13 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 154290
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0"
+
+Log No:133
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=gmail HTTP/1.1"
+Status->	 200
+Bytes->		 42867
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:134
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:17 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=gmail HTTP/1.1"
+Status->	 200
+Bytes->		 6806
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:135
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=gmail&since=2009-05-14&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7313
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:136
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:33 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=gmail&since=2009-05-13&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6889
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:137
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=google HTTP/1.1"
+Status->	 200
+Bytes->		 156739
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:138
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:44 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google HTTP/1.1"
+Status->	 200
+Bytes->		 5936
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:139
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:13:55 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-14&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7406
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:140
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-13&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7587
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:141
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-09&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6718
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:142
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:48 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-21&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6969
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:143
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:53 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-24&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 5950
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:144
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:56 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-03&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7455
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:145
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:57 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-28&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7397
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:146
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:14:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-28&until=2009-05-07 HTTP/1.1"
+Status->	 200
+Bytes->		 6785
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:147
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:03 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-28&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6518
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:148
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:05 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-02&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6619
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:149
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:05 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-03&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7443
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:150
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:07 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7399
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:151
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:09 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-13 HTTP/1.1"
+Status->	 200
+Bytes->		 7369
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:152
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:11 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-11 HTTP/1.1"
+Status->	 200
+Bytes->		 7327
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:153
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:11 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-10 HTTP/1.1"
+Status->	 200
+Bytes->		 7250
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:154
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:12 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6741
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:155
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:16 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6741
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:156
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:19 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-06&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6741
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:157
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-05&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6741
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:158
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-06&until=2009-05-06 HTTP/1.1"
+Status->	 200
+Bytes->		 8101
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:159
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:24 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-06&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6741
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:160
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:25 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-07&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6741
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:161
+Username->	 -
+rfc931->	 -
+Remotehost-> 192.54.144.229
+Date->		 [14/May/2009:09:15:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-21&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7614
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:162
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:09:26:12 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 11036
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+
+Log No:163
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:09:26:15 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+
+Log No:164
+Username->	 -
+rfc931->	 -
+Remotehost-> 209.131.41.49
+Date->		 [14/May/2009:10:33:19 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/robots.txt HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "YahooFeedSeeker/2.0 (compatible; Mozilla 4.0; MSIE 5.5; http://publisher.yahoo.com/rssguide)"
+
+Log No:165
+Username->	 -
+rfc931->	 -
+Remotehost-> 209.131.41.49
+Date->		 [14/May/2009:10:33:23 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=rss2 HTTP/1.1"
+Status->	 200
+Bytes->		 15113
+Referrer->	 "-"
+Platform->	 "YahooFeedSeeker/2.0 (compatible; Mozilla 4.0; MSIE 5.5; http://publisher.yahoo.com/rssguide; users 1; views 78)"
+
+Log No:166
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.167.232.193
+Date->		 [14/May/2009:10:33:24 -0700]
+Method->	 HEAD  
+Request->	 "www.kinneryandrajan.com/wp-cron.php?check=7106ae27ea4c45ab67094da19cc97812 HTTP/1.0"
+Status->	 200
+Bytes->		 0
+Referrer->	 "-"
+Platform->	 "WordPress/2.7"
+
+Log No:167
+Username->	 -
+rfc931->	 -
+Remotehost-> 200.155.126.66
+Date->		 [14/May/2009:11:12:45 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.0"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3"
+
+Log No:168
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:11:14:37 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)"
+
+Log No:169
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:11:14:38 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)"
+
+Log No:170
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:17:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google%2Capple"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:171
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:17:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=google%2Capple HTTP/1.0"
+Status->	 200
+Bytes->		 307534
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:172
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:17:29 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google HTTP/1.0"
+Status->	 200
+Bytes->		 6062
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google%2Capple"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:173
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:11:18:49 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/robots.txt HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:174
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:11:18:50 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=friends HTTP/1.1"
+Status->	 200
+Bytes->		 127896
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:175
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.80.195.36
+Date->		 [14/May/2009:11:22:14 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 20109
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; F-6.0SP2-20041109; .NET CLR 1.1.4322; InfoPath.1)"
+
+Log No:176
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:35:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23rpattz HTTP/1.0"
+Status->	 200
+Bytes->		 15839
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:177
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:35:35 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23rpattz"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:178
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:35:40 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23rpattz HTTP/1.0"
+Status->	 200
+Bytes->		 7654
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23rpattz"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:179
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:39:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=manny+ramirez HTTP/1.0"
+Status->	 200
+Bytes->		 41617
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:180
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:39:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=manny%20ramirez HTTP/1.0"
+Status->	 200
+Bytes->		 6944
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=manny+ramirez"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:181
+Username->	 -
+rfc931->	 -
+Remotehost-> 90.187.41.217
+Date->		 [14/May/2009:11:40:50 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:182
+Username->	 -
+rfc931->	 -
+Remotehost-> 90.187.41.217
+Date->		 [14/May/2009:11:40:50 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 115081
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:183
+Username->	 -
+rfc931->	 -
+Remotehost-> 90.187.41.217
+Date->		 [14/May/2009:11:40:51 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:184
+Username->	 -
+rfc931->	 -
+Remotehost-> 90.187.41.217
+Date->		 [14/May/2009:11:40:51 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:185
+Username->	 -
+rfc931->	 -
+Remotehost-> 90.187.41.217
+Date->		 [14/May/2009:11:42:48 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=fonts HTTP/1.1"
+Status->	 200
+Bytes->		 2088
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:186
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:46:11 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=kfc HTTP/1.0"
+Status->	 200
+Bytes->		 100944
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:187
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:46:13 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=kfc HTTP/1.0"
+Status->	 200
+Bytes->		 7540
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=kfc"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:188
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:11:47:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=may+day HTTP/1.1"
+Status->	 200
+Bytes->		 96359
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:189
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:51:46 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=make+money HTTP/1.0"
+Status->	 200
+Bytes->		 79496
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:190
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:51:50 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=make%20money HTTP/1.0"
+Status->	 200
+Bytes->		 7797
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=make+money"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:191
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:11:52:08 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Opera/8.00 (Windows NT 5.1; U; en)"
+
+Log No:192
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:11:52:09 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Opera/8.00 (Windows NT 5.1; U; en)"
+
+Log No:193
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:56:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=star+trek HTTP/1.0"
+Status->	 200
+Bytes->		 125598
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:194
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:11:56:26 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=star%20trek HTTP/1.0"
+Status->	 200
+Bytes->		 7548
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=star+trek"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:195
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:00:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=google%2Capple HTTP/1.0"
+Status->	 200
+Bytes->		 307878
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:196
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:00:33 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google HTTP/1.0"
+Status->	 200
+Bytes->		 7510
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google%2Capple"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:197
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:00:52 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=twitter HTTP/1.0"
+Status->	 200
+Bytes->		 85456
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:198
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:00:54 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=twitter HTTP/1.0"
+Status->	 200
+Bytes->		 7719
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=twitter"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:199
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:03:32 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23familyforce5 HTTP/1.0"
+Status->	 200
+Bytes->		 19143
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:200
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:03:33 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23familyforce5 HTTP/1.0"
+Status->	 200
+Bytes->		 7262
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23familyforce5"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:201
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:13:44 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=friends HTTP/1.0"
+Status->	 200
+Bytes->		 128007
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:202
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:13:45 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=friends HTTP/1.0"
+Status->	 200
+Bytes->		 7735
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=friends"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:203
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:14:57 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23hiring HTTP/1.0"
+Status->	 200
+Bytes->		 35191
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:204
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:12:15:02 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23hiring HTTP/1.0"
+Status->	 200
+Bytes->		 8119
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23hiring"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:205
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:20:39 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:206
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:20:39 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:207
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:20:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 115308
+Referrer->	 "http://twitter.pbworks.com/Apps"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:208
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:20:43 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:209
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:20:46 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:210
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:20:56 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=open+innovation HTTP/1.1"
+Status->	 200
+Bytes->		 2128
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:211
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:21:37 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1365
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=open+innovation"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:212
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:24:53 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=open+innovation HTTP/1.1"
+Status->	 200
+Bytes->		 1405
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:213
+Username->	 -
+rfc931->	 -
+Remotehost-> 91.107.52.123
+Date->		 [14/May/2009:12:31:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:214
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:32:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=open+innovation HTTP/1.1"
+Status->	 200
+Bytes->		 6555
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=open+innovation"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:215
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:32:30 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=open%20innovation HTTP/1.1"
+Status->	 200
+Bytes->		 6990
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=open+innovation"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:216
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:32:51 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=open%20innovation&since=2009-05-13&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6990
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=open+innovation"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:217
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:32:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=open+innovation HTTP/1.1"
+Status->	 200
+Bytes->		 6555
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=open+innovation"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:218
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.127.250.64
+Date->		 [14/May/2009:12:33:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=open%20innovation HTTP/1.1"
+Status->	 200
+Bytes->		 7027
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=open+innovation"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)"
+
+Log No:219
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.109.163.135
+Date->		 [14/May/2009:12:33:27 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 21374
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727)"
+
+Log No:220
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.109.163.135
+Date->		 [14/May/2009:12:33:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 21591
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727)"
+
+Log No:221
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.109.163.135
+Date->		 [14/May/2009:12:33:29 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.1"
+Status->	 200
+Bytes->		 15082
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727)"
+
+Log No:222
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:12:40:51 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=twitter HTTP/1.1"
+Status->	 200
+Bytes->		 85711
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:223
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:02 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:224
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:07 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:225
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:08 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:226
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:11 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 115330
+Referrer->	 "http://twitter.pbworks.com/WebApps"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:227
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:18 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=Deep+Voyage HTTP/1.1"
+Status->	 200
+Bytes->		 2112
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:228
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=Fishdom HTTP/1.1"
+Status->	 200
+Bytes->		 2096
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=Deep+Voyage"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:229
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:37 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=Popcap HTTP/1.1"
+Status->	 200
+Bytes->		 2092
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=Fishdom"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:230
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:42 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=orgy HTTP/1.1"
+Status->	 200
+Bytes->		 2084
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=Popcap"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:231
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:51:47 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 115330
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=orgy"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:232
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:22 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 21193
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:233
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:22 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/js/util.js HTTP/1.1"
+Status->	 200
+Bytes->		 2128
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:234
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:24 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 19374
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:235
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:25 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/js/menu.js HTTP/1.1"
+Status->	 200
+Bytes->		 5886
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:236
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:26 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/plugins/wp-recaptcha/recaptcha.css HTTP/1.1"
+Status->	 200
+Bytes->		 1739
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:237
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:26 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/bg.jpg HTTP/1.1"
+Status->	 200
+Bytes->		 1769
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:238
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:27 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/menu.gif HTTP/1.1"
+Status->	 200
+Bytes->		 1326
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:239
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:27 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/textfield.gif HTTP/1.1"
+Status->	 200
+Bytes->		 57
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:240
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:27 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/icons.gif HTTP/1.1"
+Status->	 200
+Bytes->		 3997
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:241
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:27 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/sidesep.gif HTTP/1.1"
+Status->	 200
+Bytes->		 102
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:242
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:27 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/uploads/2009/04/plot.png HTTP/1.1"
+Status->	 200
+Bytes->		 80601
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:243
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/light.gif HTTP/1.1"
+Status->	 200
+Bytes->		 39289
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:244
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/header_footer.jpg HTTP/1.1"
+Status->	 200
+Bytes->		 26837
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:245
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/widgetsep.png HTTP/1.1"
+Status->	 200
+Bytes->		 3272
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:246
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/feeds.gif HTTP/1.1"
+Status->	 200
+Bytes->		 2028
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:247
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/uploads/2009/03/trek.jpg HTTP/1.1"
+Status->	 200
+Bytes->		 147712
+Referrer->	 "http://www.kinneryandrajan.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:248
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/readers.gif HTTP/1.1"
+Status->	 200
+Bytes->		 7128
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:249
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:28 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/wp-content/themes/inove/img/wp-logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 7838
+Referrer->	 "http://www.kinneryandrajan.com/wp-content/themes/inove/style.css"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:250
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:29 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:251
+Username->	 -
+rfc931->	 -
+Remotehost-> 85.223.207.141
+Date->		 [14/May/2009:12:53:32 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686; uk; rv:1.9.0.10) Gecko/2009042523 Ubuntu/8.10 (intrepid) Firefox/3.0.10"
+
+Log No:252
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:01:10 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=ben HTTP/1.1"
+Status->	 200
+Bytes->		 124476
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:253
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:05:35 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:254
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:05:36 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 115500
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:255
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:05:36 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:256
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:05:38 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:257
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:05:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=star+trek HTTP/1.1"
+Status->	 200
+Bytes->		 126035
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:258
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:05:42 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=star%20trek HTTP/1.1"
+Status->	 200
+Bytes->		 7667
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=star+trek"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:259
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:06:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 123428
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=star+trek"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:260
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:07:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=do+not+click HTTP/1.1"
+Status->	 200
+Bytes->		 6751
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:261
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:07:42 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=do%20not%20click HTTP/1.1"
+Status->	 200
+Bytes->		 8080
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=do+not+click"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:262
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:07:56 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=gmail HTTP/1.1"
+Status->	 200
+Bytes->		 43668
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=do+not+click"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:263
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:07:57 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=gmail HTTP/1.1"
+Status->	 200
+Bytes->		 7305
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:264
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:08:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=google HTTP/1.1"
+Status->	 200
+Bytes->		 157659
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:265
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:08:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google HTTP/1.1"
+Status->	 200
+Bytes->		 7529
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:266
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:08:35 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-14&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 6830
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:267
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:08:37 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-13&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7529
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:268
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:08:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-09&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7205
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:269
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:09:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-21&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7205
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:270
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:09:08 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-21&until=2009-05-08 HTTP/1.1"
+Status->	 200
+Bytes->		 6735
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:271
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:09:10 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-04-21&until=2009-04-24 HTTP/1.1"
+Status->	 200
+Bytes->		 7621
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:272
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:09:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-10&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7718
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:273
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:09:15 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=google&since=2009-05-04&until=2009-05-14 HTTP/1.1"
+Status->	 200
+Bytes->		 7236
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:274
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:09:22 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 123428
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=google"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:275
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:14:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23googlefail HTTP/1.1"
+Status->	 200
+Bytes->		 7341
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:276
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:15:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23googlefail HTTP/1.1"
+Status->	 200
+Bytes->		 7437
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23googlefail"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:277
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:13:15:27 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 123436
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23googlefail"
+Platform->	 "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.20) Gecko/20090402 Firefox/2.0.0.20"
+
+Log No:278
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:20:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=google HTTP/1.0"
+Status->	 200
+Bytes->		 157445
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:279
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:21:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=fonts HTTP/1.1"
+Status->	 200
+Bytes->		 2088
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:280
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:21:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=fonts"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:281
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:21:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=fonts"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:282
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:21:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=fonts"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:283
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:23:04 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1355
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=fonts"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:284
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:23:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:285
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:23:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:286
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:26:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=ford HTTP/1.0"
+Status->	 200
+Bytes->		 114551
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:287
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:26:26 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=ford HTTP/1.0"
+Status->	 200
+Bytes->		 7377
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=ford"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:288
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:30:58 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:289
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:30:59 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:290
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:31:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 123400
+Referrer->	 "http://www.interney.net/blogs/alexprimo/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:291
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:31:03 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:292
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:31:06 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:293
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:34:12 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=locke HTTP/1.1"
+Status->	 200
+Bytes->		 2088
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:294
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:34:20 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1355
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=locke"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:295
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:35:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=idol HTTP/1.1"
+Status->	 200
+Bytes->		 134238
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:296
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:35:26 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23lost HTTP/1.1"
+Status->	 200
+Bytes->		 2088
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:297
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:35:38 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1355
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23lost"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:298
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:40:25 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=heat HTTP/1.1"
+Status->	 200
+Bytes->		 6884
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:299
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:40:32 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=ashton HTTP/1.1"
+Status->	 200
+Bytes->		 7008
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:300
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.85.134
+Date->		 [14/May/2009:13:40:43 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=rss2 HTTP/1.1"
+Status->	 200
+Bytes->		 15071
+Referrer->	 "-"
+Platform->	 "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=7705655773661080647)"
+
+Log No:301
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:40:43 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=kindle HTTP/1.1"
+Status->	 200
+Bytes->		 7889
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:302
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:40:45 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=kindle%20dx HTTP/1.1"
+Status->	 200
+Bytes->		 7985
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:303
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:41:08 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=happy%20cinco%20de%20mayo HTTP/1.1"
+Status->	 200
+Bytes->		 7940
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:304
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:13:41:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=cavs HTTP/1.1"
+Status->	 200
+Bytes->		 7759
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:305
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:13:41:35 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"
+
+Log No:306
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:13:41:37 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"
+
+Log No:307
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:44:27 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=mcfly+mcfly+mcfly HTTP/1.0"
+Status->	 200
+Bytes->		 14134
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:308
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:44:28 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=mcfly+mcfly+mcfly"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:309
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:44:30 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=mcfly%20mcfly%20mcfly HTTP/1.0"
+Status->	 200
+Bytes->		 6335
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=mcfly+mcfly+mcfly"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:310
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:44:57 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=iphone HTTP/1.0"
+Status->	 200
+Bytes->		 77068
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:311
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:44:58 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=iphone HTTP/1.0"
+Status->	 200
+Bytes->		 8027
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=iphone"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:312
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:47:47 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=eurovision HTTP/1.0"
+Status->	 200
+Bytes->		 16815
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:313
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:13:47:48 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=eurovision HTTP/1.0"
+Status->	 200
+Bytes->		 5832
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=eurovision"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:314
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:51:13 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23lost HTTP/1.1"
+Status->	 200
+Bytes->		 6517
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:315
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:51:15 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23lost HTTP/1.1"
+Status->	 200
+Bytes->		 6328
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23lost"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:316
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:51:33 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7916
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23lost"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:317
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:53:54 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=fonts HTTP/1.1"
+Status->	 200
+Bytes->		 6587
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:318
+Username->	 -
+rfc931->	 -
+Remotehost-> 81.210.207.215
+Date->		 [14/May/2009:13:53:55 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=fonts HTTP/1.1"
+Status->	 200
+Bytes->		 7604
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=fonts"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; de-de) AppleWebKit/525.28.3 (KHTML, like Gecko) Version/3.2.3 Safari/525.28.3"
+
+Log No:319
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:54:16 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q= HTTP/1.1"
+Status->	 200
+Bytes->		 7302
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23lost"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:320
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:54:37 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=ben HTTP/1.1"
+Status->	 200
+Bytes->		 124629
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23lost"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:321
+Username->	 -
+rfc931->	 -
+Remotehost-> 189.58.200.215
+Date->		 [14/May/2009:13:54:38 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=ben HTTP/1.1"
+Status->	 200
+Bytes->		 7576
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=ben"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10"
+
+Log No:322
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:26 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 123355
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:323
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:26 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:324
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:26 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.0"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:325
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:36 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=gmail HTTP/1.0"
+Status->	 200
+Bytes->		 43821
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:326
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:39 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=gmail HTTP/1.0"
+Status->	 200
+Bytes->		 7063
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:327
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:39 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/tweets.py?q=gmail"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:328
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:46 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=dinner HTTP/1.0"
+Status->	 200
+Bytes->		 33636
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gmail"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:329
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:04:47 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=dinner HTTP/1.0"
+Status->	 200
+Bytes->		 7713
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=dinner"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:330
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:05:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%22get+a+life%22 HTTP/1.0"
+Status->	 200
+Bytes->		 2096
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=dinner"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:331
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:05:48 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.0"
+Status->	 200
+Bytes->		 1348
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%22get+a+life%22"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:332
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:05:52 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 123528
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:333
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:06:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=loser HTTP/1.0"
+Status->	 200
+Bytes->		 2076
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:334
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:06:14 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.0"
+Status->	 200
+Bytes->		 1343
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=loser"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:335
+Username->	 -
+rfc931->	 -
+Remotehost-> 216.239.45.4
+Date->		 [14/May/2009:14:06:18 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.0"
+Status->	 200
+Bytes->		 123528
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:336
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:14:18:08 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.79 [en] (Windows NT 5.0; U)"
+
+Log No:337
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:14:18:09 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.79 [en] (Windows NT 5.0; U)"
+
+Log No:338
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:18:59 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/robots.txt HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:339
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:19:00 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?p=19 HTTP/1.1"
+Status->	 200
+Bytes->		 18252
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:340
+Username->	 -
+rfc931->	 -
+Remotehost-> 65.55.211.60
+Date->		 [14/May/2009:14:23:13 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/robots.txt HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "msnbot/1.1 (+http://search.msn.com/msnbot.htm)"
+
+Log No:341
+Username->	 -
+rfc931->	 -
+Remotehost-> 65.55.211.60
+Date->		 [14/May/2009:14:23:15 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=rss2 HTTP/1.1"
+Status->	 200
+Bytes->		 15176
+Referrer->	 "-"
+Platform->	 "msnbot/1.1 (+http://search.msn.com/msnbot.htm)"
+
+Log No:342
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:26:25 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=mexico HTTP/1.1"
+Status->	 200
+Bytes->		 127595
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:343
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:14:36:20 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=adam HTTP/1.0"
+Status->	 200
+Bytes->		 121060
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:344
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:14:36:22 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=adam HTTP/1.0"
+Status->	 200
+Bytes->		 7834
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=adam"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:345
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:38:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 115051
+Referrer->	 "http://www.interney.net/blogs/alexprimo/2009/05/14/a_rapida_e_competente_resposta_do_twitte/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:346
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:38:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.1"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:347
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:38:22 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.1"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:348
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:38:22 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:349
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:38:30 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=Kabbalah HTTP/1.1"
+Status->	 200
+Bytes->		 2100
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:350
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:38:57 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1358
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=Kabbalah"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:351
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:39:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=Madonna HTTP/1.1"
+Status->	 200
+Bytes->		 2096
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:352
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:39:14 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23Madonna HTTP/1.1"
+Status->	 200
+Bytes->		 2100
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=Madonna"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:353
+Username->	 -
+rfc931->	 -
+Remotehost-> 201.6.229.96
+Date->		 [14/May/2009:14:39:28 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1358
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23Madonna"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.65 Safari/525.19"
+
+Log No:354
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:55:00 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=danny HTTP/1.1"
+Status->	 200
+Bytes->		 6698
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:355
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:55:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=crosby HTTP/1.1"
+Status->	 200
+Bytes->		 8042
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:356
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:55:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=holland HTTP/1.1"
+Status->	 200
+Bytes->		 6729
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:357
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:55:02 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=apprentice HTTP/1.1"
+Status->	 200
+Bytes->		 7550
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:358
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:55:03 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=canucks HTTP/1.1"
+Status->	 200
+Bytes->		 8084
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:359
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:14:55:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=atlanta HTTP/1.1"
+Status->	 200
+Bytes->		 7735
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:360
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:26:01 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=kobe HTTP/1.0"
+Status->	 200
+Bytes->		 71280
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:361
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:26:02 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=kobe HTTP/1.0"
+Status->	 200
+Bytes->		 7716
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=kobe"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:362
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:28:10 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 123674
+Referrer->	 "http://www.interney.net/blogs/alexprimo/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:363
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:28:15 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.1"
+Status->	 404
+Bytes->		 -
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:364
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:28:24 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=gr%EAmio%2C+internacional HTTP/1.1"
+Status->	 200
+Bytes->		 73
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:365
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:28:33 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=gremio%2C+internacional HTTP/1.1"
+Status->	 200
+Bytes->		 2937
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:366
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:29:00 -0700]
+Method->	 POST  
+Request->	 "www.twibuzz.com/cgi/search.py HTTP/1.1"
+Status->	 200
+Bytes->		 1356
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=gremio%2C+internacional"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:367
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:29:23 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/ HTTP/1.1"
+Status->	 200
+Bytes->		 123674
+Referrer->	 "http://www.twibuzz.com/cgi/search.py"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:368
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:29:29 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=star+trek HTTP/1.1"
+Status->	 200
+Bytes->		 126347
+Referrer->	 "http://www.twibuzz.com/"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:369
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:29:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=star%20trek HTTP/1.1"
+Status->	 200
+Bytes->		 7624
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=star+trek"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:370
+Username->	 -
+rfc931->	 -
+Remotehost-> 143.54.43.166
+Date->		 [14/May/2009:15:30:02 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=azeredo HTTP/1.1"
+Status->	 200
+Bytes->		 2096
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=star+trek"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10"
+
+Log No:371
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:30:30 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=idol HTTP/1.0"
+Status->	 200
+Bytes->		 134454
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:372
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:30:31 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=idol HTTP/1.0"
+Status->	 200
+Bytes->		 7380
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=idol"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:373
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:12 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 200
+Bytes->		 639
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:374
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:12 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/logo.png HTTP/1.0"
+Status->	 200
+Bytes->		 5410
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:375
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:12 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=goodnight HTTP/1.0"
+Status->	 200
+Bytes->		 118368
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:376
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:12 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/favicon.ico HTTP/1.0"
+Status->	 404
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:377
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:13 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=goodnight HTTP/1.0"
+Status->	 200
+Bytes->		 7207
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:378
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:37 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=love HTTP/1.0"
+Status->	 200
+Bytes->		 2072
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:379
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:40 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=goodnight HTTP/1.0"
+Status->	 200
+Bytes->		 118368
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:380
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:41 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=goodnight HTTP/1.0"
+Status->	 200
+Bytes->		 7118
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:381
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:49 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=apple HTTP/1.0"
+Status->	 200
+Bytes->		 155445
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=goodnight"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:382
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:50 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=apple HTTP/1.0"
+Status->	 200
+Bytes->		 7400
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=apple"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:383
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:39:57 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=chrom HTTP/1.0"
+Status->	 200
+Bytes->		 2076
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=apple"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:384
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:40:03 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=chrome HTTP/1.0"
+Status->	 200
+Bytes->		 31582
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=chrom"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:385
+Username->	 -
+rfc931->	 -
+Remotehost-> 72.14.229.81
+Date->		 [14/May/2009:15:40:04 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=chrome HTTP/1.0"
+Status->	 200
+Bytes->		 7335
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=chrome"
+Platform->	 "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"
+
+Log No:386
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:15:46:58 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Opera/7.54 (Windows NT 5.1; U)  [pl]"
+
+Log No:387
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.74.220
+Date->		 [14/May/2009:15:46:59 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Opera/7.54 (Windows NT 5.1; U)  [pl]"
+
+Log No:388
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:50:17 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=%23eurovision HTTP/1.0"
+Status->	 200
+Bytes->		 15522
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:389
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:50:19 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/style.css HTTP/1.0"
+Status->	 304
+Bytes->		 -
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23eurovision"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:390
+Username->	 -
+rfc931->	 -
+Remotehost-> 74.6.22.103
+Date->		 [14/May/2009:15:50:21 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/tweets.py?q=%23eurovision HTTP/1.0"
+Status->	 200
+Bytes->		 6386
+Referrer->	 "http://www.twibuzz.com/cgi/search.py?query=%23eurovision"
+Platform->	 "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"
+
+Log No:391
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:16:08:34 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)"
+
+Log No:392
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.163
+Date->		 [14/May/2009:16:08:35 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)"
+
+Log No:393
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.70.102
+Date->		 [14/May/2009:16:13:39 -0700]
+Method->	 GET  
+Request->	 "www.twibuzz.com/cgi/search.py?query=flu HTTP/1.1"
+Status->	 200
+Bytes->		 148942
+Referrer->	 "-"
+Platform->	 "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+
+Log No:394
+Username->	 -
+rfc931->	 -
+Remotehost-> 94.180.192.125
+Date->		 [14/May/2009:16:13:39 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?p=1 HTTP/1.0"
+Status->	 200
+Bytes->		 21448
+Referrer->	 "http://www.kinneryandrajan.com/?p=1"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4 (ax)"
+
+Log No:395
+Username->	 -
+rfc931->	 -
+Remotehost-> 94.180.192.125
+Date->		 [14/May/2009:16:13:41 -0700]
+Method->	 POST  
+Request->	 "www.kinneryandrajan.com/wp-comments-post.php HTTP/1.0"
+Status->	 500
+Bytes->		 975
+Referrer->	 "http://www.kinneryandrajan.com/?p=1"
+Platform->	 "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4 (ax)"
+
+Log No:396
+Username->	 -
+rfc931->	 -
+Remotehost-> 66.249.85.134
+Date->		 [14/May/2009:16:30:36 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=rss2 HTTP/1.1"
+Status->	 200
+Bytes->		 15064
+Referrer->	 "-"
+Platform->	 "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=7705655773661080647)"
+
+Log No:397
+Username->	 -
+rfc931->	 -
+Remotehost-> 208.80.195.33
+Date->		 [14/May/2009:16:34:11 -0700]
+Method->	 GET  
+Request->	 "kinneryandrajan.com/ HTTP/1.0"
+Status->	 302
+Bytes->		 0
+Referrer->	 "-"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Maxthon; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.04506.30)"
+
+Log No:398
+Username->	 -
+rfc931->	 -
+Remotehost-> 209.131.41.48
+Date->		 [14/May/2009:16:37:47 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?feed=rss2 HTTP/1.0"
+Status->	 200
+Bytes->		 14428
+Referrer->	 "-"
+Platform->	 "YahooFeedSeeker/2.0 (compatible; Mozilla 4.0; MSIE 5.5; http://publisher.yahoo.com/rssguide; users 1; views 78)"
+
+Log No:399
+Username->	 -
+rfc931->	 -
+Remotehost-> 194.8.75.149
+Date->		 [14/May/2009:16:44:09 -0700]
+Method->	 GET  
+Request->	 "www.kinneryandrajan.com/?page_id=2 HTTP/1.0"
+Status->	 200
+Bytes->		 14125
+Referrer->	 "http://www.kinneryandrajan.com/?page_id=2"
+Platform->	 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
